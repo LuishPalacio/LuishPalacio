@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Luis Henrique 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor & Professor de Informática <br>
-  🎓 Estudante de Ciência da Computação | 4º semestre
+  💻 Desenvolvedor & Professor de Informática <br>
+  🎓 Estudante de Ciência da Computação | 4º semestre
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 💻 Desenvolvedor com foco em: `Python`, `HTML`, `CSS`, `JavaScript`
 - 🛠️ Também tenho experiência com: `C#`, `C++`, `Java`
 - 🌱 Sempre aprendendo e buscando novos desafios na área de tecnologia
-- 📫 Contato profissional: [LinkedIn](https://www.linkedin.com/in/luis-henrique-7a024121a)
+- 📫 Contato profissional: [LinkedIn](https://www.linkedin.com/in/luishpalacio)
 
 ---
 
@@ -35,19 +35,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueofc01&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueofc01&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical" width="350"/>
 </p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-Luis%20Henrique-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-7a024121a)
+[![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)
 
 ---
 
 <p align="center">
-  ✨ “Transformando conhecimento em código e ideias em soluções.” ✨
+  ✨ “Transformando conhecimento em código e ideias em soluções.” ✨
 </p>
-

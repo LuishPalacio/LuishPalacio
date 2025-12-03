@@ -36,8 +36,8 @@ Estas são as principais tecnologias que utilizo no meu dia a dia e em meus proj
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="350"/>
 </div>
 
 ---
@@ -45,11 +45,11 @@ Estas são as principais tecnologias que utilizo no meu dia a dia e em meus proj
 ## 🔗 Conecte-se
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)
+  [![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)
 </div>
 
 ---
 
 <div align="center">
-  ✨ **"Transformando conhecimento em código e ideias em soluções."** ✨
+  ✨ **"Transformando conhecimento em código e ideias em soluções."** ✨
 </div>

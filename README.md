@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Olá! Eu sou o Luis Henrique 👋</h1>
   <p>
-    💻 Desenvolvedor & Professor de Informática <br>
+    💻 Desenvolvedor e Professor de Informática <br>
     🎓 Estudante de Ciência da Computação | 4º semestre
   </p>
 </div>
 
 ---
 
-## 👨‍🏫 Sobre Mim
+## 📚 Sobre Mim
 
-* 🎓 Cursando **Ciência da Computação** (4º semestre)
+* 🎓 Curso **Ciência da Computação** (4º semestre)
 * 👨‍🏫 **Professor de Informática** na Escola Discover
 * 💻 Desenvolvedor com foco em: **`Python`**, **`HTML`**, **`CSS`**, **`JavaScript`**
 * 🛠️ Experiência também com: `C#`, `C++`, `Java`
@@ -35,16 +35,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Corrigido)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical&hide_border=true" width="350" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="350"/>
 </div>
 
 ---
 
-## 🌐 Conecte-se
+## 🌐 Conecte-se (Corrigido)
 
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)

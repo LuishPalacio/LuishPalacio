@@ -36,8 +36,8 @@ Estas são as principais tecnologias que utilizo no meu dia a dia e em meus proj
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&langs_count=7&theme=default" alt="Linguagens Mais Usadas" width="350" />
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=default&include_all_commits=true&count_private=true" width="400" />
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&langs_count=7&theme=default" width="350" />
 </div>
 
 ---

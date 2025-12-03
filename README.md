@@ -1,26 +1,24 @@
 <div align="center">
-  <h1>Olá! Eu sou o Luis Henrique 👋</h1>
-  <p>
-    💻 Desenvolvedor e Professor de Informática <br>
-    🎓 Estudante de Ciência da Computação | 4º Semestre
-  </p>
+  <h1>Olá! Eu sou o Luis Henrique 👋</h1>
+  <p>
+    💻 Desenvolvedor e Professor de Informática <br>
+    🎓 Estudante de Ciência da Computação | 4º Semestre
+  </p>
 </div>
 
 ---
 
 ## 📚 Sobre Mim
 
-* 🎓 Atualmente no **4º Semestre** de **Ciência da Computação**.
-* 👨‍🏫 Atuo como **Professor de Informática** na Escola Discover.
-* 💻 Foco principal de desenvolvimento em: **`Python`**, **`JavaScript`**, **`HTML`**, e **`CSS`**.
-* 🛠️ Também possuo experiência com: `C#`, `C++`, e `Java`.
-* 🌱 Sempre em busca de aprendizado e novos desafios na área de **Tecnologia e Programação**.
+- 🎓 Atualmente no **4º Semestre** de **Ciência da Computação**.
+- 👨‍🏫 Atuo como **Professor de Informática** na Escola Discover.
+- 💻 Foco principal de desenvolvimento em: **`Python`**, **`JavaScript`**, **`HTML`**, e **`CSS`**.
+- 🛠️ Também possuo experiência com: `C#`, `C++`, e `Java`.
+- 🌱 Sempre em busca de aprendizado e novos desafios na área de **Tecnologia e Programação**.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-
-Estas são as principais tecnologias que utilizo no meu dia a dia e em meus projetos:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" alt="Python">
@@ -36,8 +34,16 @@ Estas são as principais tecnologias que utilizo no meu dia a dia e em meus proj
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=default&include_all_commits=true&count_private=true" width="400" />
-<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&langs_count=7&theme=default" width="350" />
+  <img 
+    src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=default&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub" 
+    width="400"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&langs_count=7&theme=default" 
+    alt="Linguagens Mais Usadas" 
+    width="350"
+  />
 </div>
 
 ---
@@ -53,5 +59,5 @@ Estas são as principais tecnologias que utilizo no meu dia a dia e em meus proj
 ---
 
 <div align="center">
-  ✨ **"Transformando conhecimento em código e ideias em soluções."** ✨
+  ✨ <strong>"Transformando conhecimento em código e ideias em soluções."</strong> ✨
 </div>

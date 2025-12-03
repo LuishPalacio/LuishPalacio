@@ -34,8 +34,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
- <img src="https://githubstats.deno.dev/api?username=LuisHPalacio&show_icons=true&theme=transparent" width="400">
-<img src="https://githubstats.deno.dev/api/top-langs/?username=LuisHPalacio&layout=compact&theme=transparent" width="350">
+ <img src="https://githubstats.deno.dev/api?username=LuishPalacio&show_icons=true&theme=transparent" width="400">
+<img src="https://githubstats.deno.dev/api/top-langs/?username=LuishPalacio&layout=compact&theme=transparent" width="350">
 </div>
 
 ---

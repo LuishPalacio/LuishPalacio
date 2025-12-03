@@ -1,52 +1,57 @@
-<h1 align="center">Olá! Eu sou o Luis Henrique 👋</h1>
-
-<p align="center">
-  💻 Desenvolvedor & Professor de Informática <br>
-  🎓 Estudante de Ciência da Computação | 4º semestre
-</p>
-
----
-
-### 👨‍🏫 Sobre mim
-
-- 🎓 Cursando Ciência da Computação (4º semestre)
-- 👨‍🏫 Professor de Informática na Escola Discover
-- 💻 Desenvolvedor com foco em: `Python`, `HTML`, `CSS`, `JavaScript`
-- 🛠️ Também tenho experiência com: `C#`, `C++`, `Java`
-- 🌱 Sempre aprendendo e buscando novos desafios na área de tecnologia
-- 📫 Contato profissional: [LinkedIn](https://www.linkedin.com/in/luishpalacio)
+<div align="center">
+  <h1>Olá! Eu sou o Luis Henrique 👋</h1>
+  <p>
+    💻 Desenvolvedor & Professor de Informática <br>
+    🎓 Estudante de Ciência da Computação | 4º semestre
+  </p>
+</div>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 👨‍🏫 Sobre Mim
 
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-333?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2b%2b)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
+* 🎓 Cursando **Ciência da Computação** (4º semestre)
+* 👨‍🏫 **Professor de Informática** na Escola Discover
+* 💻 Desenvolvedor com foco em: **`Python`**, **`HTML`**, **`CSS`**, **`JavaScript`**
+* 🛠️ Experiência também com: `C#`, `C++`, `Java`
+* 🌱 Sempre aprendendo e buscando novos desafios na área de **Tecnologia**.
+* 🔗 Contato profissional: [LinkedIn](https://www.linkedin.com/in/luishpalacio)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical" width="350"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-333?style=flat-square&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/-CSharp-333?style=flat-square&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2b%2b" alt="C++">
+  <img src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code" alt="VS Code">
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 📊 Estatísticas do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=radical&hide_border=true" width="350" alt="Linguagens Mais Usadas">
+</div>
 
 ---
 
-<p align="center">
-  ✨ “Transformando conhecimento em código e ideias em soluções.” ✨
-</p>
+## 🌐 Conecte-se
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/-luishpalacio-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishpalacio)
+</div>
+
+---
+
+<div align="center">
+  ✨ “Transformando conhecimento em código e ideias em soluções.” ✨
+</div>

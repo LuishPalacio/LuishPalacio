@@ -13,27 +13,4 @@
 
 <br/>
 
-## 👨‍💻 `whoami.py`
 
-```python
-class LuisHenrique:
-    def __init__(self):
-        self.nome = "Luis Henrique"
-        self.papel = "Professor & Estudante de CS"
-        self.semestre = "4º Semestre"
-        self.local = "São Paulo, Brasil"
-
-    def skills_atuais(self):
-        return [
-            "Python", "JavaScript",
-            "HTML5", "CSS3",
-            "C++", "C#", "Java"
-        ]
-
-    def interesses(self):
-        return [
-            "Desenvolvimento Web",
-            "Redes de Computadores",
-            "Estrutura de Dados",
-            "Educação Tecnológica"
-        ]

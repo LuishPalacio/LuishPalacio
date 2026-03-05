@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2196F3&height=250&section=header&text=Olá,%20sou%20o%20Luis%20Palacio!&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Professor%20|%20Desenvolvedor%20|%20Estudante&descAlignY=72&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2196F3&height=250&section=header&text=Olá,%20sou%20o%20Luis%20Henrique%20Palacio!&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Professor%20|%20Desenvolvedor%20|%20Estudante&descAlignY=72&descSize=22" width="100%" />
 
   <a href="https://linkedin.com/in/luishpalacio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">

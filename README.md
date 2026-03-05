@@ -20,7 +20,7 @@
       <h3>👨‍💻 Um pouco sobre mim</h3>
       <ul>
         <li>🎓 Estudante do 5º semestre de Ciência da Computação.</li>
-        <li>👨‍🏫 Professor de Informática, apaixonado por compartilhar conhecimento na sala de aula.</li>
+        <li>👨‍🏫 Professor de Informática, auxiliando alunos em atividades e no universo da tecnologia.</li>
         <li>💻 Entusiasta do desenvolvimento Mobile e Web.</li>
       </ul>
     </td>
@@ -48,9 +48,13 @@
 <br><br>
 
 <div align="center">
-  <h3>📈 Atividade e Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHPalacio&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Langs" width="48%" />
+  <h3>📈 Minha Jornada Dev</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=LuisHPalacio&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0ea5e9&style=for-the-badge" alt="Contador de Visitas" />
+  </p>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHPalacio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br>

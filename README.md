@@ -33,30 +33,28 @@
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
-**Mobile & Front-end** <br>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,angular,vue" alt="Frontend e Mobile" />
-<br><br>
-**Back-end & Banco de Dados** <br>
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,django,mysql,postgres,sqlite" alt="Backend e DB" />
-<br><br>
-**Ferramentas, Cloud & SO** <br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,arduino,photoshop" alt="Ferramentas" />
+**Mobile & Front-end** <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,angular,vue" alt="Frontend e Mobile" />
+
+**Back-end & Banco de Dados** <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,django,mysql,postgres,sqlite" alt="Backend e DB" />
+
+**Ferramentas, Cloud & SO** <img src="https://skillicons.dev/icons?i=git,github,linux,postman,arduino,photoshop" alt="Ferramentas" />
 
 ---
 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LuisHPalacio&amp;theme=radical&amp;no-frame=true&amp;margin-w=15" alt="Troféus GitHub" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisHPalacio&theme=radical&no-frame=true&margin-w=15" alt="Troféus GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHPalacio&amp;show_icons=true&amp;theme=radical&amp;layout=compact&amp;hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHPalacio&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHPalacio&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHPalacio&amp;theme=radical&amp;hide_border=true" alt="Streak Stats" />
 </p>

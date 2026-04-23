@@ -27,7 +27,7 @@
     <td width="50%" style="border: none;" valign="top">
       <h3>🚀 O que estou construindo</h3>
       <ul>
-        <li>💸 Desenvolvendo o <b>Quimera Finanças</b>, um aplicativo focado em gestão financeira utilizando Expo.</li>
+        <li>💸 Desenvolvendo o <b>FinFlow Finanças</b>, um aplicativo focado em gestão financeira utilizando Expo.</li>
         <li>🌐 Aprimorando projetos de Front-end (React/JS) e Back-end (Java/Python).</li>
       </ul>
     </td>

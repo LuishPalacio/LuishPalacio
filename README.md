@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a3d62&height=160&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Desenvolvedor%20%C2%B7%20Educador%20%C2%B7%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=72&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d62&height=200&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20%C2%B7%20Educador%20%C2%B7%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descSize=15" width="100%" />
 
 <br>
 
@@ -188,6 +188,6 @@ Aplicativo mobile dedicado à gestão financeira pessoal, projetado com ênfase 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d62,100:000000&height=4&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,100:000000&height=120&section=footer&reversal=true" width="100%" />
 
 </div>

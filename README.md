@@ -189,7 +189,7 @@ mindmap
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHPalacio&theme=tokyonight&hide_border=true&background=0d1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=LuisHPalacio&theme=tokyonight&hide_border=true&background=0d1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 <br><br>
 
@@ -209,7 +209,8 @@ mindmap
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/LuisHPalacio/LuisHPalacio/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<!-- A Snake Animation aparecerá aqui após configurar a GitHub Action (snake.yml) -->
+<img src="https://raw.githubusercontent.com/LuisHPalacio/LuisHPalacio/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" onerror="this.style.display='none'" />
 
 </div>
 

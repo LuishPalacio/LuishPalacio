@@ -1,14 +1,14 @@
 <!--
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   LUIS HENRIQUE PALACIO
-  Software Developer · IT Assistant · Educator · CS Student
+  Software Developer · IT Professional · Educator · CS Student
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d62&height=210&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Desenvolvedor%20%C2%B7%20Assistente%20de%20TI%20%C2%B7%20Educador%20%C2%B7%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=59&descSize=15"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d62&height=210&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Desenvolvedor%20de%20Software%20%C2%B7%20Tecnologia%20%C2%B7%20Educa%C3%A7%C3%A3o&descAlignY=59&descSize=16"
   width="100%"
   alt="Cabeçalho do perfil de Luis Henrique Palacio"
 />
@@ -17,7 +17,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Construindo+software+que+resolve+problemas+reais.;Desenvolvimento%2C+infraestrutura+e+suporte+t%C3%A9cnico.;Transformando+tecnologia+em+solu%C3%A7%C3%B5es+acess%C3%ADveis."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Desenvolvendo+solu%C3%A7%C3%B5es+para+problemas+reais.;Criando+aplica%C3%A7%C3%B5es+mobile%2C+web+e+APIs.;Aprendendo%2C+construindo+e+compartilhando+tecnologia."
     alt="Apresentação profissional"
   />
 </a>
@@ -51,54 +51,78 @@
 
 ## `01 / Sobre mim`
 
-Sou estudante de **Ciência da Computação**, desenvolvedor de software, educador e profissional de suporte e infraestrutura de TI.
+Sou estudante de **Ciência da Computação** e desenvolvedor de software com interesse na criação de aplicações **mobile**, sistemas **web**, APIs e soluções tecnológicas orientadas a problemas reais.
 
-Atualmente, atuo como **Assistente de TI na ODEEN – Intelligence for Security**, trabalhando com infraestrutura tecnológica, suporte aos usuários, manutenção de hardware, equipamentos de rede e gestão de operações.
+Minha experiência também abrange infraestrutura, suporte técnico e educação, áreas que contribuíram para o desenvolvimento de habilidades como resolução de problemas, comunicação, organização e compreensão das necessidades dos usuários.
 
-Também possuo experiência como **professor de Informática**, atividade na qual desenvolvi habilidades de comunicação, didática, organização e tradução de conceitos técnicos para diferentes públicos.
+Busco evoluir continuamente por meio de projetos práticos, estudos e experiências que conectem desenvolvimento, tecnologia e experiência do usuário.
 
-No desenvolvimento de software, concentro meus estudos e projetos em aplicações **Mobile**, **Web** e **APIs**, buscando unir qualidade técnica, usabilidade e resolução de problemas reais.
-
-> Acredito que boas soluções surgem da combinação entre engenharia, clareza, experiência do usuário e compreensão do problema.
+> Meu objetivo é transformar conhecimento técnico em soluções úteis, acessíveis e bem estruturadas.
 
 <br>
 
 ---
 
-## `02 / Experiência profissional`
+## `02 / Experiências e projetos`
 
-### Assistente de TI
+Ao longo da minha trajetória, venho desenvolvendo experiências em diferentes áreas da tecnologia:
 
-**ODEEN – Intelligence for Security**  
-`junho de 2026 – atualmente` · `Tempo integral`  
-Mogi das Cruzes, São Paulo, Brasil · Presencial
+- Desenvolvimento de aplicações mobile com React Native, Expo e TypeScript;
+- Construção de interfaces e aplicações web;
+- Desenvolvimento e consumo de APIs;
+- Criação de projetos com Java, Spring Boot, Python e Node.js;
+- Modelagem e utilização de bancos de dados relacionais;
+- Manutenção, montagem e diagnóstico de computadores;
+- Configuração e suporte de equipamentos de rede;
+- Atendimento e suporte técnico aos usuários;
+- Ensino de informática e orientação técnica;
+- Prototipação de interfaces e experiências no Figma.
 
-Atuação na infraestrutura de tecnologia e no suporte às operações da empresa, contribuindo para a instalação, manutenção e estabilidade de equipamentos e sistemas.
-
-**Principais atividades:**
-
-- Instalação e configuração de equipamentos eletrônicos para sistemas de TI;
-- Manutenção preventiva e corretiva de computadores e componentes de hardware;
-- Diagnóstico e resolução de falhas em diferentes dispositivos;
-- Troubleshooting de hardware, infraestrutura e conectividade;
-- Montagem, reparo e testes de circuitos e componentes eletrônicos;
-- Instalação de componentes físicos em servidores;
-- Configuração e suporte de roteadores, switches e dispositivos de rede;
-- Suporte técnico direto aos usuários;
-- Apoio à gestão das operações e à continuidade dos serviços tecnológicos;
-- Monitoramento da estabilidade dos equipamentos e da infraestrutura.
-
-**Competências relacionadas**
-
-`Suporte técnico` `Infraestrutura de TI` `Hardware` `Redes`  
-`Servidores` `Roteadores` `Switches` `Troubleshooting`  
-`Manutenção preventiva` `Manutenção corretiva` `Atendimento ao usuário`
+Essas experiências me permitem compreender tanto a construção do software quanto o ambiente tecnológico no qual ele será utilizado.
 
 <br>
 
 ---
 
-## `03 / Áreas de atuação`
+## `03 / Projeto em destaque`
+
+### FinFlow Finanças
+
+Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanhamento de receitas, despesas e hábitos financeiros mais simples e intuitivo.
+
+O projeto é desenvolvido com foco em experiência do usuário, organização de código, reutilização de componentes e possibilidade de evolução contínua.
+
+### Objetivos
+
+- Simplificar o registro de movimentações financeiras;
+- Facilitar a visualização de receitas e despesas;
+- Oferecer uma experiência clara e acessível;
+- Incentivar maior organização financeira;
+- Construir uma base escalável para novas funcionalidades.
+
+### Funcionalidades planejadas
+
+- Cadastro de receitas e despesas;
+- Categorização das movimentações;
+- Histórico financeiro;
+- Resumos e indicadores;
+- Filtros por período e categoria;
+- Organização de gastos;
+- Interface adaptada para Android e iOS.
+
+### Tecnologias
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Status:** `Em desenvolvimento ativo`
+
+<br>
+
+---
+
+## `04 / Áreas de conhecimento`
 
 <table width="100%">
 <tr>
@@ -106,27 +130,27 @@ Atuação na infraestrutura de tecnologia e no suporte às operações da empres
 
 ### Desenvolvimento Mobile
 
-Criação de aplicações móveis com foco em desempenho, experiência do usuário, organização de código e escalabilidade.
+Desenvolvimento de aplicações para dispositivos móveis, com atenção à usabilidade, componentização, desempenho e organização do código.
 
-`Expo` `React Native` `TypeScript`
+`React Native` `Expo` `TypeScript`
 
 </td>
 <td valign="top" width="33%">
 
 ### Desenvolvimento Web
 
-Desenvolvimento de interfaces, sistemas web e APIs, abrangendo front-end componentizado e back-end orientado a serviços.
+Criação de interfaces responsivas e aplicações web utilizando tecnologias modernas de front-end.
 
-`React` `Spring Boot` `Node.js`
+`React` `Angular` `Vue.js`
 
 </td>
 <td valign="top" width="33%">
 
-### Infraestrutura e Suporte
+### Back-end e APIs
 
-Instalação, configuração, manutenção e diagnóstico de equipamentos, redes, servidores e dispositivos tecnológicos.
+Construção de APIs, regras de negócio, integração de serviços e comunicação com bancos de dados.
 
-`Hardware` `Redes` `Servidores`
+`Spring Boot` `Node.js` `Python`
 
 </td>
 </tr>
@@ -134,29 +158,29 @@ Instalação, configuração, manutenção e diagnóstico de equipamentos, redes
 <tr>
 <td valign="top" width="33%">
 
-### Manutenção de Hardware
+### Bancos de Dados
 
-Manutenção preventiva e corretiva, substituição de componentes e investigação de falhas em equipamentos.
+Modelagem, armazenamento e consulta de dados em bancos relacionais utilizados em aplicações web e mobile.
 
-`Diagnóstico` `Reparo` `Montagem`
-
-</td>
-<td valign="top" width="33%">
-
-### Operações de TI
-
-Apoio à estabilidade dos serviços, organização da infraestrutura e atendimento de demandas técnicas operacionais.
-
-`Troubleshooting` `Suporte` `Operações`
+`MySQL` `PostgreSQL` `SQLite`
 
 </td>
 <td valign="top" width="33%">
 
-### Educação Técnica
+### Infraestrutura
 
-Ensino de informática e tecnologia, com comunicação acessível, acompanhamento individual e orientação prática.
+Instalação, manutenção e diagnóstico de equipamentos, servidores, roteadores, switches e dispositivos tecnológicos.
 
-`Didática` `Mentoria` `Tutoria`
+`Hardware` `Redes` `Servidores`
+
+</td>
+<td valign="top" width="33%">
+
+### Educação e Comunicação
+
+Ensino de tecnologia, produção de explicações acessíveis e orientação de pessoas com diferentes níveis de conhecimento.
+
+`Didática` `Tutoria` `Comunicação`
 
 </td>
 </tr>
@@ -166,39 +190,7 @@ Ensino de informática e tecnologia, com comunicação acessível, acompanhament
 
 ---
 
-## `04 / Projeto em destaque`
-
-### FinFlow Finanças
-
-Aplicativo mobile de gestão financeira pessoal, desenvolvido para facilitar o controle de receitas, despesas e hábitos financeiros por meio de uma experiência simples e intuitiva.
-
-O projeto prioriza organização visual, facilidade de uso, componentização e uma experiência consistente em dispositivos Android e iOS.
-
-**Objetivo**  
-Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzindo a complexidade normalmente associada ao controle de gastos.
-
-**Principais conceitos**
-
-- Registro e categorização de receitas e despesas;
-- Visualização organizada da movimentação financeira;
-- Controle granular de gastos;
-- Interface responsiva e intuitiva;
-- Arquitetura preparada para evolução do produto.
-
-**Tecnologias**
-
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Status**  
-`Em desenvolvimento ativo`
-
-<br>
-
----
-
-## `05 / Stack técnica`
+## `05 / Tecnologias`
 
 <table width="100%">
 <tr>
@@ -216,12 +208,11 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </td>
 <td valign="top" width="33%">
 
-### Back-end e Banco de Dados
+### Back-end e Dados
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -236,18 +227,17 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 </td>
 <td valign="top" width="33%">
 
-### Infraestrutura e Ferramentas
+### Ferramentas e Infraestrutura
 
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 </td>
 </tr>
@@ -257,34 +247,37 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 
 ---
 
-## `06 / Conhecimentos em infraestrutura`
+## `06 / Conhecimentos em tecnologia`
 
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
 
-### Hardware e manutenção
+### Desenvolvimento
 
-- Montagem e manutenção de computadores;
-- Diagnóstico de falhas de hardware;
-- Substituição e instalação de componentes;
-- Manutenção preventiva e corretiva;
-- Testes e validação de equipamentos;
-- Montagem e reparo de circuitos;
-- Instalação de componentes em servidores.
+- Lógica de programação;
+- Programação orientada a objetos;
+- Componentização de interfaces;
+- Desenvolvimento responsivo;
+- Integração e consumo de APIs;
+- Organização e versionamento de código;
+- Modelagem de bancos de dados;
+- Prototipação de interfaces;
+- Fundamentos de experiência do usuário.
 
 </td>
 <td valign="top" width="50%">
 
-### Redes e suporte
+### Infraestrutura e suporte
 
-- Instalação de roteadores e switches;
-- Configuração de equipamentos de rede;
+- Montagem e manutenção de computadores;
+- Diagnóstico de falhas de hardware;
+- Instalação e substituição de componentes;
+- Manutenção preventiva e corretiva;
+- Configuração de roteadores e switches;
 - Troubleshooting de conectividade;
 - Suporte técnico ao usuário;
-- Instalação de dispositivos;
-- Organização da infraestrutura;
-- Apoio à continuidade dos serviços de TI.
+- Organização de equipamentos e infraestrutura.
 
 </td>
 </tr>
@@ -294,19 +287,56 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 
 ---
 
-## `07 / Competências`
+## `07 / Trajetória profissional`
+
+### Assistente de TI
+
+**ODEEN – Intelligence for Security**  
+`junho de 2026 – atualmente` · `Tempo integral`  
+Mogi das Cruzes, São Paulo, Brasil
+
+Atuação com suporte técnico, infraestrutura, equipamentos eletrônicos, hardware, redes e continuidade das operações tecnológicas.
+
+Principais experiências:
+
+- Instalação e configuração de equipamentos;
+- Manutenção preventiva e corretiva;
+- Diagnóstico de falhas;
+- Suporte a computadores e servidores;
+- Configuração de roteadores e switches;
+- Troubleshooting de infraestrutura e conectividade;
+- Atendimento técnico aos usuários;
+- Apoio às operações de tecnologia.
+
+### Professor de Informática
+
+Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais e na compreensão de conceitos técnicos.
+
+Principais experiências:
+
+- Preparação e condução de aulas;
+- Orientação prática aos alunos;
+- Explicação de conceitos técnicos de forma acessível;
+- Acompanhamento de diferentes ritmos de aprendizagem;
+- Desenvolvimento de comunicação, didática e organização.
+
+<br>
+
+---
+
+## `08 / Competências`
 
 <div align="center">
 
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_de_Software-0a3d62?style=flat-square)
-![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0a3d62?style=flat-square)
+![Desenvolvimento Mobile](https://img.shields.io/badge/Desenvolvimento_Mobile-0a3d62?style=flat-square)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-0a3d62?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-0a3d62?style=flat-square)
+![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-0a3d62?style=flat-square)
+![Git e GitHub](https://img.shields.io/badge/Git_e_GitHub-0a3d62?style=flat-square)
 ![Infraestrutura de TI](https://img.shields.io/badge/Infraestrutura_de_TI-0a3d62?style=flat-square)
-![Manutenção de Hardware](https://img.shields.io/badge/Manutenção_de_Hardware-0a3d62?style=flat-square)
-![Redes](https://img.shields.io/badge/Redes-0a3d62?style=flat-square)
+![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0a3d62?style=flat-square)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0a3d62?style=flat-square)
-![Atendimento ao Usuário](https://img.shields.io/badge/Atendimento_ao_Usuário-0a3d62?style=flat-square)
 ![Comunicação](https://img.shields.io/badge/Comunicação-0a3d62?style=flat-square)
-![Didática](https://img.shields.io/badge/Didática-0a3d62?style=flat-square)
 ![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-0a3d62?style=flat-square)
 
 </div>
@@ -315,7 +345,7 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 
 ---
 
-## `08 / Atividade no GitHub`
+## `09 / Atividade no GitHub`
 
 <div align="center">
 
@@ -345,11 +375,11 @@ Tornar o acompanhamento financeiro mais acessível, natural e contínuo, reduzin
 
 ---
 
-## `09 / Contato`
+## `10 / Contato`
 
 <div align="center">
 
-Estou aberto a oportunidades nas áreas de **desenvolvimento de software**, **suporte técnico**, **infraestrutura de TI** e **tecnologia educacional**.
+Tenho interesse em oportunidades, colaborações e projetos relacionados a **desenvolvimento de software**, **aplicações mobile**, **desenvolvimento web** e **tecnologia**.
 
 <br>
 
@@ -364,7 +394,7 @@ Estou aberto a oportunidades nas áreas de **desenvolvimento de software**, **su
 <br><br>
 
 <sub>
-  Tecnologia, infraestrutura e desenvolvimento orientados à resolução de problemas reais.
+  Aprendendo, desenvolvendo e transformando ideias em soluções.
   <br>
   <strong>Vamos construir algo juntos?</strong>
 </sub>

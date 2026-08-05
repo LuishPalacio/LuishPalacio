@@ -5,6 +5,10 @@
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
+<div align="right">
+  <a href="README.md">🇧🇷 PT-BR</a> | <a href="README.en.md">🇺🇸 EN</a>
+</div>
+
 <div align="center">
 
 <img
@@ -32,8 +36,8 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://portifolio-rho-seven-24.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" />
+<a href="https://luishpalacio.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
 </a>
 
 <br><br>
@@ -55,7 +59,7 @@ Sou estudante do **6º semestre de Ciência da Computação** e atualmente traba
 
 Apesar da vivência em infraestrutura, meu foco de carreira é o **desenvolvimento de software**. Tenho direcionado meus estudos e projetos para a criação de soluções modernas, escaláveis e de alta qualidade, consolidando uma base técnica ampla em ecossistemas Front-end, Mobile (nativos e multiplataforma) e Back-end.
 
-Minha experiência anterior como professor de Informática na Escola Discover teve um papel fundamental na minha formação, desenvolvendo minha capacidade de comunicação, trabalho em equipe e didática.
+Minha experiência anterior como professor de Informática na Escola Discover teve um papel fundamental na minha formação, desenvolvendo minha capacidade de comunicação, liderança técnica, trabalho em equipe e didática.
 
 > Meu objetivo é continuar evoluindo e explorar áreas de grande interesse como desenvolvimento, cibersegurança e inteligência artificial, contribuindo ativamente com soluções inovadoras.
 
@@ -74,46 +78,27 @@ Ao longo da minha trajetória, venho desenvolvendo experiências em diferentes �
 - Projetos práticos de IoT e eletrônica com Arduino, ESP32 e Raspberry Pi Pico;
 - Manutenção, montagem e diagnóstico de computadores e redes corporativas;
 - Atendimento, suporte técnico aos usuários e troubleshooting de infraestrutura;
-- Ensino de informática, didática e orientação técnica;
+- Planejamento de eventos tecnológicos educacionais e ensino de informática;
 - Prototipação de interfaces e experiências no Figma.
 
 <br>
 
 ---
 
-## `03 / Projeto em destaque`
+## `03 / Projetos em destaque`
 
-### FinFlow Finanças
+### 📱 FinFlow Finanças
+Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanhamento de receitas, despesas e hábitos financeiros mais simples e intuitivo. O projeto é desenvolvido com foco em experiência do usuário, organização de código e possibilidade de evolução contínua.
+- **Tecnologias:** React Native, Expo, TypeScript.
+- **Status:** Em desenvolvimento ativo.
 
-Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanhamento de receitas, despesas e hábitos financeiros mais simples e intuitivo.
+### ⚙️ Sistema de Gerenciamento de Tarefas
+Aplicação web voltada para a organização de atividades, desenvolvida durante o curso de Estrutura de Dados. Foco na implementação eficiente de regras de negócio e manipulação de informações no servidor.
+- **Tecnologias:** Python, Flask.
 
-O projeto é desenvolvido com foco em experiência do usuário, organização de código, reutilização de componentes e possibilidade de evolução contínua.
-
-### Objetivos
-
-- Simplificar o registro de movimentações financeiras;
-- Facilitar a visualização de receitas e despesas;
-- Oferecer uma experiência clara e acessível;
-- Incentivar maior organização financeira;
-- Construir uma base escalável para novas funcionalidades.
-
-### Funcionalidades planejadas
-
-- Cadastro de receitas e despesas;
-- Categorização das movimentações;
-- Histórico financeiro;
-- Resumos e indicadores;
-- Filtros por período e categoria;
-- Organização de gastos;
-- Interface adaptada para Android e iOS.
-
-### Tecnologias
-
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Status:** `Em desenvolvimento ativo`
+### 🎨 Gestão de Pedidos (UI Design)
+Projeto focado estritamente na prototipação e experiência do usuário (UX). Construção de toda a interface visual e fluxos de navegação para um sistema de gerenciamento de pedidos comerciais, garantindo usabilidade e acessibilidade.
+- **Tecnologias:** Figma.
 
 <br>
 
@@ -257,7 +242,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 - Organização e versionamento de código;
 - Modelagem de bancos de dados;
 - Integração entre hardware e software (IoT);
-- Prototipação e experiência do usuário.
+- Prototipação e experiência do usuário (UX/UI).
 
 </td>
 <td valign="top" width="50%">
@@ -303,15 +288,14 @@ Principais experiências:
 ### Professor de Informática
 
 **Escola Discover**  
-Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais e na compreensão de conceitos técnicos.
+Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais, com forte atuação na organização de eventos educacionais e capacitação técnica.
 
-Principais experiências:
+Principais conquistas e experiências:
 
-- Preparação e condução de aulas;
-- Orientação prática aos alunos;
-- Explicação de conceitos técnicos de forma acessível;
-- Acompanhamento de diferentes ritmos de aprendizagem;
-- Desenvolvimento de comunicação, didática e organização.
+- Planejamento e gestão da **DiscoverFair**, feira de exposição de projetos tecnológicos dos alunos;
+- Organização e condução de treinamentos práticos de robótica voltados para capacitação de novos professores;
+- Explicação de conceitos técnicos complexos de forma acessível para diferentes faixas etárias;
+- Desenvolvimento contínuo de habilidades em comunicação, didática, liderança e gestão de projetos.
 
 <br>
 

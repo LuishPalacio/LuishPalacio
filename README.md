@@ -51,13 +51,13 @@
 
 ## `01 / Sobre mim`
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de software com interesse na criação de aplicações **mobile**, sistemas **web**, APIs e soluções tecnológicas orientadas a problemas reais.
+Sou estudante do **6º semestre de Ciência da Computação** e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware, o que me proporciona uma base sólida de como a tecnologia opera na prática.
 
-Minha experiência também abrange infraestrutura, suporte técnico e educação, áreas que contribuíram para o desenvolvimento de habilidades como resolução de problemas, comunicação, organização e compreensão das necessidades dos usuários.
+Apesar da vivência em infraestrutura, meu foco de carreira é o **desenvolvimento de software**. Tenho direcionado meus estudos e projetos para a criação de soluções modernas, escaláveis e de alta qualidade, consolidando uma base técnica ampla em ecossistemas Front-end, Mobile (nativos e multiplataforma) e Back-end.
 
-Busco evoluir continuamente por meio de projetos práticos, estudos e experiências que conectem desenvolvimento, tecnologia e experiência do usuário.
+Minha experiência anterior como professor de Informática na Escola Discover teve um papel fundamental na minha formação, desenvolvendo minha capacidade de comunicação, trabalho em equipe e didática.
 
-> Meu objetivo é transformar conhecimento técnico em soluções úteis, acessíveis e bem estruturadas.
+> Meu objetivo é continuar evoluindo e explorar áreas de grande interesse como desenvolvimento, cibersegurança e inteligência artificial, contribuindo ativamente com soluções inovadoras.
 
 <br>
 
@@ -67,18 +67,15 @@ Busco evoluir continuamente por meio de projetos práticos, estudos e experiênc
 
 Ao longo da minha trajetória, venho desenvolvendo experiências em diferentes áreas da tecnologia:
 
-- Desenvolvimento de aplicações mobile com React Native, Expo e TypeScript;
-- Construção de interfaces e aplicações web;
-- Desenvolvimento e consumo de APIs;
-- Criação de projetos com Java, Spring Boot, Python e Node.js;
-- Modelagem e utilização de bancos de dados relacionais;
-- Manutenção, montagem e diagnóstico de computadores;
-- Configuração e suporte de equipamentos de rede;
-- Atendimento e suporte técnico aos usuários;
-- Ensino de informática e orientação técnica;
+- Desenvolvimento de aplicações mobile multiplataforma (React Native, Expo) e nativas (Kotlin, Swift);
+- Construção de interfaces e aplicações web com React, Angular e Vue.js;
+- Desenvolvimento e consumo de APIs com Java (Spring Boot), Python (Flask/Django) e Node.js;
+- Modelagem e utilização de bancos de dados relacionais (PostgreSQL, MySQL);
+- Projetos práticos de IoT e eletrônica com Arduino, ESP32 e Raspberry Pi Pico;
+- Manutenção, montagem e diagnóstico de computadores e redes corporativas;
+- Atendimento, suporte técnico aos usuários e troubleshooting de infraestrutura;
+- Ensino de informática, didática e orientação técnica;
 - Prototipação de interfaces e experiências no Figma.
-
-Essas experiências me permitem compreender tanto a construção do software quanto o ambiente tecnológico no qual ele será utilizado.
 
 <br>
 
@@ -130,9 +127,9 @@ O projeto é desenvolvido com foco em experiência do usuário, organização de
 
 ### Desenvolvimento Mobile
 
-Desenvolvimento de aplicações para dispositivos móveis, com atenção à usabilidade, componentização, desempenho e organização do código.
+Desenvolvimento de aplicações nativas e multiplataforma com atenção à usabilidade, desempenho e componentização.
 
-`React Native` `Expo` `TypeScript`
+`React Native` `Kotlin` `Swift`
 
 </td>
 <td valign="top" width="33%">
@@ -167,11 +164,11 @@ Modelagem, armazenamento e consulta de dados em bancos relacionais utilizados em
 </td>
 <td valign="top" width="33%">
 
-### Infraestrutura
+### Infraestrutura e IoT
 
-Instalação, manutenção e diagnóstico de equipamentos, servidores, roteadores, switches e dispositivos tecnológicos.
+Instalação e manutenção de servidores/redes, e integração entre hardware e software utilizando microcontroladores.
 
-`Hardware` `Redes` `Servidores`
+`Hardware` `Redes` `IoT`
 
 </td>
 <td valign="top" width="33%">
@@ -201,13 +198,12 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -220,8 +216,8 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 ![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
@@ -235,7 +231,6 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F24E1E)
 
@@ -255,15 +250,14 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ### Desenvolvimento
 
-- Lógica de programação;
-- Programação orientada a objetos;
+- Lógica de programação e POO;
 - Componentização de interfaces;
-- Desenvolvimento responsivo;
+- Desenvolvimento multiplataforma e nativo;
 - Integração e consumo de APIs;
 - Organização e versionamento de código;
 - Modelagem de bancos de dados;
-- Prototipação de interfaces;
-- Fundamentos de experiência do usuário.
+- Integração entre hardware e software (IoT);
+- Prototipação e experiência do usuário.
 
 </td>
 <td valign="top" width="50%">
@@ -289,7 +283,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ## `07 / Trajetória profissional`
 
-### Assistente de TI
+### Assistente de TI Pleno
 
 **ODEEN – Intelligence for Security**  
 `junho de 2026 – atualmente` · `Tempo integral`  
@@ -301,15 +295,14 @@ Principais experiências:
 
 - Instalação e configuração de equipamentos;
 - Manutenção preventiva e corretiva;
-- Diagnóstico de falhas;
-- Suporte a computadores e servidores;
+- Diagnóstico de falhas e suporte a computadores/servidores;
 - Configuração de roteadores e switches;
 - Troubleshooting de infraestrutura e conectividade;
-- Atendimento técnico aos usuários;
-- Apoio às operações de tecnologia.
+- Atendimento técnico aos usuários e apoio às operações.
 
 ### Professor de Informática
 
+**Escola Discover**  
 Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais e na compreensão de conceitos técnicos.
 
 Principais experiências:
@@ -328,15 +321,15 @@ Principais experiências:
 
 <div align="center">
 
+![Desenvolvimento Full Stack](https://img.shields.io/badge/Desenvolvimento_Full_Stack-0a3d62?style=flat-square)
 ![Desenvolvimento Mobile](https://img.shields.io/badge/Desenvolvimento_Mobile-0a3d62?style=flat-square)
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-0a3d62?style=flat-square)
 ![APIs](https://img.shields.io/badge/APIs-0a3d62?style=flat-square)
 ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-0a3d62?style=flat-square)
+![IoT e Eletrônica](https://img.shields.io/badge/IoT_e_Eletrônica-0a3d62?style=flat-square)
 ![Git e GitHub](https://img.shields.io/badge/Git_e_GitHub-0a3d62?style=flat-square)
 ![Infraestrutura de TI](https://img.shields.io/badge/Infraestrutura_de_TI-0a3d62?style=flat-square)
-![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0a3d62?style=flat-square)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0a3d62?style=flat-square)
-![Comunicação](https://img.shields.io/badge/Comunicação-0a3d62?style=flat-square)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-0a3d62?style=flat-square)
+![Comunicação e Didática](https://img.shields.io/badge/Comunicação_e_Didática-0a3d62?style=flat-square)
 ![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-0a3d62?style=flat-square)
 
 </div>

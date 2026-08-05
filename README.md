@@ -5,10 +5,6 @@
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
-<div align="right">
-  <a href="README.md">🇧🇷 PT-BR</a> | <a href="README.en.md">🇺🇸 EN</a>
-</div>
-
 <div align="center">
 
 <img

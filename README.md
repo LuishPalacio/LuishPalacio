@@ -15,6 +15,10 @@
 
 <br>
 
+**Português** · [English](README-en.md)
+
+<br>
+
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Desenvolvendo+solu%C3%A7%C3%B5es+para+problemas+reais.;Criando+aplica%C3%A7%C3%B5es+mobile%2C+web+e+APIs.;Aprendendo%2C+construindo+e+compartilhando+tecnologia."
@@ -24,6 +28,10 @@
 
 <br><br>
 
+<a href="https://github.com/LuisHPalacio">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/luishpalacio/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -34,6 +42,10 @@
 &nbsp;
 <a href="https://luishpalacio.github.io/portifolio/">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
+</a>
+&nbsp;
+<a href="https://github.com/LuishPalacio/portifolio">
+  <img src="https://img.shields.io/badge/Código_fonte-000000?style=flat-square&logo=github&logoColor=white" alt="Código fonte do portfólio" />
 </a>
 
 <br><br>
@@ -51,7 +63,7 @@
 
 ## `01 / Sobre mim`
 
-Sou estudante do **6º semestre de Ciência da Computação** e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware, o que me proporciona uma base sólida de como a tecnologia opera na prática.
+Sou estudante de **Ciência da Computação**, com conclusão prevista para **dezembro de 2027**, e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware, o que me proporciona uma base sólida de como a tecnologia opera na prática.
 
 Apesar da vivência em infraestrutura, meu foco de carreira é o **desenvolvimento de software**. Tenho direcionado meus estudos e projetos para a criação de soluções modernas, escaláveis e de alta qualidade, consolidando uma base técnica ampla em ecossistemas Front-end, Mobile (nativos e multiplataforma) e Back-end.
 
@@ -88,13 +100,32 @@ Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanham
 - **Tecnologias:** React Native, Expo, TypeScript.
 - **Status:** Em desenvolvimento ativo.
 
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FinFlowA/app-financas)
+
 ### ⚙️ Sistema de Gerenciamento de Tarefas
 Aplicação web voltada para a organização de atividades, desenvolvida durante o curso de Estrutura de Dados. Foco na implementação eficiente de regras de negócio e manipulação de informações no servidor.
 - **Tecnologias:** Python, Flask.
 
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/sistema-gerenciamento-tarefas)
+
 ### 🎨 Gestão de Pedidos (UI Design)
 Projeto focado estritamente na prototipação e experiência do usuário (UX). Construção de toda a interface visual e fluxos de navegação para um sistema de gerenciamento de pedidos comerciais, garantindo usabilidade e acessibilidade.
 - **Tecnologias:** Figma.
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
+
+### 🍔 FoodNode Analytics
+Sistema de roteamento ótimo para entregas de fast-food: calcula o caminho mínimo em grafos direcionados ponderados usando **Dijkstra + BFS**, com interface gráfica desktop em Tkinter e modo CLI para automação. Projeto acadêmico da disciplina de Teoria dos Grafos, com arquitetura em camadas (apresentação, aplicação, domínio e infraestrutura) e suíte de 65 testes automatizados.
+- **Tecnologias:** Python, Tkinter, Dijkstra, BFS, Pytest.
+- **Status:** Projeto acadêmico (Teoria dos Grafos).
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/foodnode-analytics)
+
+### 🌐 Landing Page — Ferreira & Moreira
+Gestão integral do desenvolvimento e da hospedagem web da landing page oficial da empresa, assegurando estabilidade, segurança e a melhor performance da presença digital.
+- **Tecnologias:** HTML, CSS, JavaScript.
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/ferreira-moreira-site)
 
 <br>
 
@@ -223,46 +254,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ---
 
-## `06 / Conhecimentos em tecnologia`
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-### Desenvolvimento
-
-- Lógica de programação e POO;
-- Componentização de interfaces;
-- Desenvolvimento multiplataforma e nativo;
-- Integração e consumo de APIs;
-- Organização e versionamento de código;
-- Modelagem de bancos de dados;
-- Integração entre hardware e software (IoT);
-- Prototipação e experiência do usuário (UX/UI).
-
-</td>
-<td valign="top" width="50%">
-
-### Infraestrutura e suporte
-
-- Montagem e manutenção de computadores;
-- Diagnóstico de falhas de hardware;
-- Instalação e substituição de componentes;
-- Manutenção preventiva e corretiva;
-- Configuração de roteadores e switches;
-- Troubleshooting de conectividade;
-- Suporte técnico ao usuário;
-- Organização de equipamentos e infraestrutura.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## `07 / Trajetória profissional`
+## `06 / Trajetória profissional`
 
 ### Assistente de TI Pleno
 
@@ -297,17 +289,12 @@ Principais conquistas e experiências:
 
 ---
 
-## `08 / Competências`
+## `07 / Competências`
 
 <div align="center">
 
-![Desenvolvimento Full Stack](https://img.shields.io/badge/Desenvolvimento_Full_Stack-0a3d62?style=flat-square)
-![Desenvolvimento Mobile](https://img.shields.io/badge/Desenvolvimento_Mobile-0a3d62?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-0a3d62?style=flat-square)
-![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-0a3d62?style=flat-square)
-![IoT e Eletrônica](https://img.shields.io/badge/IoT_e_Eletrônica-0a3d62?style=flat-square)
 ![Git e GitHub](https://img.shields.io/badge/Git_e_GitHub-0a3d62?style=flat-square)
-![Infraestrutura de TI](https://img.shields.io/badge/Infraestrutura_de_TI-0a3d62?style=flat-square)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-0a3d62?style=flat-square)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-0a3d62?style=flat-square)
 ![Comunicação e Didática](https://img.shields.io/badge/Comunicação_e_Didática-0a3d62?style=flat-square)
 ![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-0a3d62?style=flat-square)
@@ -318,7 +305,7 @@ Principais conquistas e experiências:
 
 ---
 
-## `09 / Atividade no GitHub`
+## `08 / Atividade no GitHub`
 
 <div align="center">
 
@@ -348,9 +335,13 @@ Principais conquistas e experiências:
 
 ---
 
-## `10 / Contato`
+## `09 / Contato`
 
 <div align="center">
+
+![Open to Work](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=briefcase&logoColor=white)
+
+<br><br>
 
 Tenho interesse em oportunidades, colaborações e projetos relacionados a **desenvolvimento de software**, **aplicações mobile**, **desenvolvimento web** e **tecnologia**.
 

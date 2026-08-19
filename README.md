@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
 </a>
 &nbsp;
-<a href="https://github.com/LuishPalacio/portifolio">
+<a href="https://github.com/LuisHPalacio/portifolio">
   <img src="https://img.shields.io/badge/Código_fonte-000000?style=flat-square&logo=github&logoColor=white" alt="Código fonte do portfólio" />
 </a>
 
@@ -63,7 +63,7 @@
 
 ## `01 / Sobre mim`
 
-Sou estudante de **Ciência da Computação**, com conclusão prevista para **dezembro de 2027**, e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware, o que me proporciona uma base sólida de como a tecnologia opera na prática.
+Sou estudante de **Ciência da Computação**, com conclusão prevista para **dezembro de 2027**, e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware — uma base sólida de como a tecnologia opera na prática.
 
 Apesar da vivência em infraestrutura, meu foco de carreira é o **desenvolvimento de software**. Tenho direcionado meus estudos e projetos para a criação de soluções modernas, escaláveis e de alta qualidade, consolidando uma base técnica ampla em ecossistemas Front-end, Mobile (nativos e multiplataforma) e Back-end.
 
@@ -75,19 +75,36 @@ Minha experiência anterior como professor de Informática na Escola Discover te
 
 ---
 
-## `02 / Experiências e projetos`
+## `02 / Trajetória profissional`
 
-Ao longo da minha trajetória, venho desenvolvendo experiências em diferentes áreas da tecnologia:
+### Assistente de TI Pleno
 
-- Desenvolvimento de aplicações mobile multiplataforma (React Native, Expo) e nativas (Kotlin, Swift);
-- Construção de interfaces e aplicações web com React, Angular e Vue.js;
-- Desenvolvimento e consumo de APIs com Java (Spring Boot), Python (Flask/Django) e Node.js;
-- Modelagem e utilização de bancos de dados relacionais (PostgreSQL, MySQL);
-- Projetos práticos de IoT e eletrônica com Arduino, ESP32 e Raspberry Pi Pico;
-- Manutenção, montagem e diagnóstico de computadores e redes corporativas;
-- Atendimento, suporte técnico aos usuários e troubleshooting de infraestrutura;
-- Planejamento de eventos tecnológicos educacionais e ensino de informática;
-- Prototipação de interfaces e experiências no Figma.
+**ODEEN – Intelligence for Security**  
+`junho de 2026 – atualmente` · `Tempo integral`  
+Mogi das Cruzes, São Paulo, Brasil
+
+Atuação com suporte técnico, infraestrutura, equipamentos eletrônicos, hardware, redes e continuidade das operações tecnológicas.
+
+Principais experiências:
+
+- Instalação e configuração de equipamentos;
+- Manutenção preventiva e corretiva;
+- Diagnóstico de falhas e suporte a computadores/servidores;
+- Configuração de roteadores e switches;
+- Troubleshooting de infraestrutura e conectividade;
+- Atendimento técnico aos usuários e apoio às operações.
+
+### Professor de Informática
+
+**Escola Discover**  
+Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais, com forte atuação na organização de eventos educacionais e capacitação técnica.
+
+Principais conquistas e experiências:
+
+- Planejamento e gestão da **DiscoverFair**, feira de exposição de projetos tecnológicos dos alunos;
+- Organização e condução de treinamentos práticos de robótica voltados para capacitação de novos professores;
+- Explicação de conceitos técnicos complexos de forma acessível para diferentes faixas etárias;
+- Desenvolvimento contínuo de habilidades em comunicação, didática, liderança e gestão de projetos.
 
 <br>
 
@@ -95,37 +112,37 @@ Ao longo da minha trajetória, venho desenvolvendo experiências em diferentes �
 
 ## `03 / Projetos em destaque`
 
-### 📱 FinFlow Finanças
+### FinFlow Finanças
 Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanhamento de receitas, despesas e hábitos financeiros mais simples e intuitivo. O projeto é desenvolvido com foco em experiência do usuário, organização de código e possibilidade de evolução contínua.
 - **Tecnologias:** React Native, Expo, TypeScript.
 - **Status:** Em desenvolvimento ativo.
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FinFlowA/app-financas)
 
-### ⚙️ Sistema de Gerenciamento de Tarefas
+### Sistema de Gerenciamento de Tarefas
 Aplicação web voltada para a organização de atividades, desenvolvida durante o curso de Estrutura de Dados. Foco na implementação eficiente de regras de negócio e manipulação de informações no servidor.
 - **Tecnologias:** Python, Flask.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/sistema-gerenciamento-tarefas)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/sistema-gerenciamento-tarefas)
 
-### 🎨 Gestão de Pedidos (UI Design)
+### Gestão de Pedidos (UI Design)
 Projeto focado estritamente na prototipação e experiência do usuário (UX). Construção de toda a interface visual e fluxos de navegação para um sistema de gerenciamento de pedidos comerciais, garantindo usabilidade e acessibilidade.
 - **Tecnologias:** Figma.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
 
-### 🍔 FoodNode Analytics
+### FoodNode Analytics
 Sistema de roteamento ótimo para entregas de fast-food: calcula o caminho mínimo em grafos direcionados ponderados usando **Dijkstra + BFS**, com interface gráfica desktop em Tkinter e modo CLI para automação. Projeto acadêmico da disciplina de Teoria dos Grafos, com arquitetura em camadas (apresentação, aplicação, domínio e infraestrutura) e suíte de 65 testes automatizados.
 - **Tecnologias:** Python, Tkinter, Dijkstra, BFS, Pytest.
 - **Status:** Projeto acadêmico (Teoria dos Grafos).
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/foodnode-analytics)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/foodnode-analytics)
 
-### 🌐 Landing Page — Ferreira & Moreira
+### Landing Page — Ferreira & Moreira
 Gestão integral do desenvolvimento e da hospedagem web da landing page oficial da empresa, assegurando estabilidade, segurança e a melhor performance da presença digital.
 - **Tecnologias:** HTML, CSS, JavaScript.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/ferreira-moreira-site)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/ferreira-moreira-site)
 
 <br>
 
@@ -254,58 +271,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ---
 
-## `06 / Trajetória profissional`
-
-### Assistente de TI Pleno
-
-**ODEEN – Intelligence for Security**  
-`junho de 2026 – atualmente` · `Tempo integral`  
-Mogi das Cruzes, São Paulo, Brasil
-
-Atuação com suporte técnico, infraestrutura, equipamentos eletrônicos, hardware, redes e continuidade das operações tecnológicas.
-
-Principais experiências:
-
-- Instalação e configuração de equipamentos;
-- Manutenção preventiva e corretiva;
-- Diagnóstico de falhas e suporte a computadores/servidores;
-- Configuração de roteadores e switches;
-- Troubleshooting de infraestrutura e conectividade;
-- Atendimento técnico aos usuários e apoio às operações.
-
-### Professor de Informática
-
-**Escola Discover**  
-Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais, com forte atuação na organização de eventos educacionais e capacitação técnica.
-
-Principais conquistas e experiências:
-
-- Planejamento e gestão da **DiscoverFair**, feira de exposição de projetos tecnológicos dos alunos;
-- Organização e condução de treinamentos práticos de robótica voltados para capacitação de novos professores;
-- Explicação de conceitos técnicos complexos de forma acessível para diferentes faixas etárias;
-- Desenvolvimento contínuo de habilidades em comunicação, didática, liderança e gestão de projetos.
-
-<br>
-
----
-
-## `07 / Competências`
-
-<div align="center">
-
-![Git e GitHub](https://img.shields.io/badge/Git_e_GitHub-0a3d62?style=flat-square)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-0a3d62?style=flat-square)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-0a3d62?style=flat-square)
-![Comunicação e Didática](https://img.shields.io/badge/Comunicação_e_Didática-0a3d62?style=flat-square)
-![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-0a3d62?style=flat-square)
-
-</div>
-
-<br>
-
----
-
-## `08 / Atividade no GitHub`
+## `06 / Atividade no GitHub`
 
 <div align="center">
 
@@ -335,7 +301,7 @@ Principais conquistas e experiências:
 
 ---
 
-## `09 / Contato`
+## `07 / Contato`
 
 <div align="center">
 

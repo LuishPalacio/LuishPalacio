@@ -15,7 +15,7 @@
 
 <br>
 
-[Português](readme.md) · **English**
+[Português](README.md) · **English**
 
 <br>
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://github.com/LuishPalacio/portifolio">
+<a href="https://github.com/LuisHPalacio/portifolio">
   <img src="https://img.shields.io/badge/Source_code-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio source code" />
 </a>
 
@@ -75,19 +75,36 @@ My previous experience as an IT teacher at Escola Discover played a key role in 
 
 ---
 
-## `02 / Experience and projects`
+## `02 / Professional experience`
 
-Throughout my journey, I've built experience across different areas of technology:
+### Mid-level IT Assistant
 
-- Cross-platform mobile app development (React Native, Expo) and native (Kotlin, Swift);
-- Building interfaces and web applications with React, Angular and Vue.js;
-- Developing and consuming APIs with Java (Spring Boot), Python (Flask/Django) and Node.js;
-- Modeling and working with relational databases (PostgreSQL, MySQL);
-- Hands-on IoT and electronics projects with Arduino, ESP32 and Raspberry Pi Pico;
-- Maintenance, assembly and diagnostics of computers and corporate networks;
-- User support, technical assistance and infrastructure troubleshooting;
-- Planning educational technology events and teaching IT;
-- Interface prototyping and experience design in Figma.
+**ODEEN – Intelligence for Security**  
+`June 2026 – present` · `Full-time`  
+Mogi das Cruzes, São Paulo, Brazil
+
+Working with technical support, infrastructure, electronic equipment, hardware, networking and keeping technology operations running smoothly.
+
+Main responsibilities:
+
+- Equipment installation and configuration;
+- Preventive and corrective maintenance;
+- Fault diagnosis and support for computers/servers;
+- Router and switch configuration;
+- Infrastructure and connectivity troubleshooting;
+- Technical support for users and operations assistance.
+
+### IT Teacher
+
+**Escola Discover**  
+Experience teaching IT and technology, helping students use digital tools, with strong involvement in organizing educational events and technical training.
+
+Key achievements and experience:
+
+- Planning and managing **DiscoverFair**, a student technology project showcase;
+- Organizing and leading hands-on robotics training to prepare new teachers;
+- Explaining complex technical concepts in an accessible way to different age groups;
+- Continuously developing communication, teaching, leadership and project management skills.
 
 <br>
 
@@ -95,37 +112,37 @@ Throughout my journey, I've built experience across different areas of technolog
 
 ## `03 / Featured projects`
 
-### 📱 FinFlow Finanças
+### FinFlow Finanças
 Personal finance management mobile app, built to make tracking income, expenses and financial habits simpler and more intuitive. Developed with a focus on user experience, code organization and room for continuous evolution.
 - **Technologies:** React Native, Expo, TypeScript.
 - **Status:** Actively in development.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FinFlowA/app-financas)
 
-### ⚙️ Task Management System
+### Task Management System
 Web application for organizing activities, built during a Data Structures course. Focused on efficient business logic and server-side data handling.
 - **Technologies:** Python, Flask.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/sistema-gerenciamento-tarefas)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/sistema-gerenciamento-tarefas)
 
-### 🎨 Order Management (UI Design)
+### Order Management (UI Design)
 Project focused strictly on prototyping and user experience (UX). Full visual interface and navigation flow design for a commercial order management system, ensuring usability and accessibility.
 - **Technologies:** Figma.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
 
-### 🍔 FoodNode Analytics
+### FoodNode Analytics
 Optimal routing system for fast-food deliveries: computes the shortest path in weighted directed graphs using **Dijkstra + BFS**, with a Tkinter desktop GUI and a CLI mode for automation. Academic project for the Graph Theory course, built with a layered architecture (presentation, application, domain and infrastructure) and a suite of 65 automated tests.
 - **Technologies:** Python, Tkinter, Dijkstra, BFS, Pytest.
 - **Status:** Academic project (Graph Theory).
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/foodnode-analytics)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/foodnode-analytics)
 
-### 🌐 Landing Page — Ferreira & Moreira
+### Landing Page — Ferreira & Moreira
 Full ownership of development and web hosting for the company's official landing page, ensuring stability, security and the best performance for its digital presence.
 - **Technologies:** HTML, CSS, JavaScript.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/ferreira-moreira-site)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/ferreira-moreira-site)
 
 <br>
 
@@ -254,58 +271,7 @@ Teaching technology, producing accessible explanations, and mentoring people wit
 
 ---
 
-## `06 / Professional experience`
-
-### Mid-level IT Assistant
-
-**ODEEN – Intelligence for Security**
-`June 2026 – present` · `Full-time`
-Mogi das Cruzes, São Paulo, Brazil
-
-Working with technical support, infrastructure, electronic equipment, hardware, networking and keeping technology operations running smoothly.
-
-Main responsibilities:
-
-- Equipment installation and configuration;
-- Preventive and corrective maintenance;
-- Fault diagnosis and support for computers/servers;
-- Router and switch configuration;
-- Infrastructure and connectivity troubleshooting;
-- Technical support for users and operations assistance.
-
-### IT Teacher
-
-**Escola Discover**
-Experience teaching IT and technology, helping students use digital tools, with strong involvement in organizing educational events and technical training.
-
-Key achievements and experience:
-
-- Planning and managing **DiscoverFair**, a student technology project showcase;
-- Organizing and leading hands-on robotics training to prepare new teachers;
-- Explaining complex technical concepts in an accessible way to different age groups;
-- Continuously developing communication, teaching, leadership and project management skills.
-
-<br>
-
----
-
-## `07 / Skills`
-
-<div align="center">
-
-![Git and GitHub](https://img.shields.io/badge/Git_and_GitHub-0a3d62?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a3d62?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0a3d62?style=flat-square)
-![Communication and Teaching](https://img.shields.io/badge/Communication_and_Teaching-0a3d62?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-0a3d62?style=flat-square)
-
-</div>
-
-<br>
-
----
-
-## `08 / GitHub activity`
+## `06 / GitHub activity`
 
 <div align="center">
 
@@ -335,7 +301,7 @@ Key achievements and experience:
 
 ---
 
-## `09 / Contact`
+## `07 / Contact`
 
 <div align="center">
 

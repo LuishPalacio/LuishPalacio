@@ -1,14 +1,14 @@
 <!--
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   LUIS HENRIQUE PALACIO
-  Software Developer · IT Professional · Educator · CS Student
+  Desenvolvedor Full Stack e Mobile · Assistente de TI · Estudante de CC
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d62&height=210&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Desenvolvedor%20de%20Software%20%C2%B7%20Tecnologia%20%C2%B7%20Educa%C3%A7%C3%A3o&descAlignY=59&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d62&height=210&section=header&text=Luis%20Henrique%20Palacio&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20e%20Mobile%20%C2%B7%20React%20Native%20%C2%B7%20TypeScript&descAlignY=59&descSize=16"
   width="100%"
   alt="Cabeçalho do perfil de Luis Henrique Palacio"
 />
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<a href="https://github.com/LuisHPalacio">
+<a href="https://github.com/LuishPalacio">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
 </a>
 &nbsp;
-<a href="https://github.com/LuisHPalacio/portifolio">
+<a href="https://github.com/LuishPalacio/portifolio">
   <img src="https://img.shields.io/badge/Código_fonte-000000?style=flat-square&logo=github&logoColor=white" alt="Código fonte do portfólio" />
 </a>
 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=LuisHPalacio&label=Visualizações+do+perfil&color=0a3d62&style=flat"
+  src="https://komarev.com/ghpvc/?username=LuishPalacio&label=Visualizações+do+perfil&color=0a3d62&style=flat"
   alt="Visualizações do perfil"
 />
 
@@ -63,13 +63,13 @@
 
 ## `01 / Sobre mim`
 
-Sou estudante de **Ciência da Computação**, com conclusão prevista para **dezembro de 2027**, e atualmente trabalho como **Assistente de TI Pleno** na ODEEN, onde lido diariamente com infraestrutura, suporte técnico, redes e manutenção de hardware — uma base sólida de como a tecnologia opera na prática.
+Sou estudante de **Ciência da Computação** no Centro Universitário Braz Cubas, com conclusão prevista para **dezembro de 2027**, e atualmente atuo como **Assistente de TI Pleno** na ODEEN. Essa vivência com infraestrutura, suporte técnico e redes me dá uma base sólida de como a tecnologia opera na prática, mas meu foco de carreira é o **desenvolvimento de software**.
 
-Apesar da vivência em infraestrutura, meu foco de carreira é o **desenvolvimento de software**. Tenho direcionado meus estudos e projetos para a criação de soluções modernas, escaláveis e de alta qualidade, consolidando uma base técnica ampla em ecossistemas Front-end, Mobile (nativos e multiplataforma) e Back-end.
+Tenho direcionado meus estudos e projetos para a criação de soluções modernas e escaláveis, com eixo principal em **React, React Native e TypeScript**. O FinFlow — meu aplicativo de finanças pessoais com assistente de IA integrado — é o melhor exemplo dessa base técnica. Além do eixo principal, trabalho com Python (Flask, Django), Node.js e Kotlin nativo, e mantenho contato ativo com eletrônica e IoT (Arduino, ESP32, Raspberry Pi Pico), o que reforça minha visão de integração entre hardware e software.
 
-Minha experiência anterior como professor de Informática na Escola Discover teve um papel fundamental na minha formação, desenvolvendo minha capacidade de comunicação, liderança técnica, trabalho em equipe e didática.
+Minha experiência como professor de Informática na DiscoverON foi fundamental para desenvolver comunicação, trabalho em equipe e didática — habilidades que aplico diretamente na resolução de problemas em equipe.
 
-> Meu objetivo é continuar evoluindo e explorar áreas de grande interesse como desenvolvimento, cibersegurança e inteligência artificial, contribuindo ativamente com soluções inovadoras.
+> Busco oportunidades onde eu possa crescer como desenvolvedor, com interesse crescente em cibersegurança e inteligência artificial.
 
 <br>
 
@@ -85,26 +85,26 @@ Mogi das Cruzes, São Paulo, Brasil
 
 Atuação com suporte técnico, infraestrutura, equipamentos eletrônicos, hardware, redes e continuidade das operações tecnológicas.
 
-Principais experiências:
-
-- Instalação e configuração de equipamentos;
-- Manutenção preventiva e corretiva;
-- Diagnóstico de falhas e suporte a computadores/servidores;
-- Configuração de roteadores e switches;
-- Troubleshooting de infraestrutura e conectividade;
-- Atendimento técnico aos usuários e apoio às operações.
+- Instalação, configuração e projeto de equipamentos eletrônicos para sistemas de TI;
+- Manutenção preventiva e corretiva de hardware, reparo de falhas e montagem de circuitos;
+- Diagnóstico e troubleshooting em dispositivos variados;
+- Instalação de componentes físicos em servidores, roteadores e switches;
+- Suporte técnico direto aos usuários, garantindo a estabilidade dos sistemas.
 
 ### Professor de Informática
 
-**Escola Discover**  
-Experiência no ensino de informática e tecnologia, auxiliando alunos na utilização de ferramentas digitais, com forte atuação na organização de eventos educacionais e capacitação técnica.
+**DiscoverON**  
+`julho de 2024 – junho de 2026` · `2 anos`  
+Santa Isabel, São Paulo, Brasil
 
-Principais conquistas e experiências:
+Ensino de lógica de programação, desenvolvimento web e robótica para alunos do ensino fundamental e médio, com forte atuação na produção de material didático e na organização de eventos educacionais.
 
-- Planejamento e gestão da **DiscoverFair**, feira de exposição de projetos tecnológicos dos alunos;
-- Organização e condução de treinamentos práticos de robótica voltados para capacitação de novos professores;
-- Explicação de conceitos técnicos complexos de forma acessível para diferentes faixas etárias;
-- Desenvolvimento contínuo de habilidades em comunicação, didática, liderança e gestão de projetos.
+- Aulas práticas e teóricas de lógica de programação e desenvolvimento web (HTML, CSS, JavaScript);
+- Ensino de robótica em C++, integrando hardware e software por meio de projetos com sensores, motores e programação embarcada;
+- Automação de tarefas com Python, prototipação de interfaces no Figma e introdução ao Pacote Office;
+- Desenvolvimento de material didático focado em boas práticas de código, autonomia na resolução de problemas e pensamento computacional;
+- Planejamento e gestão da **DiscoverFair**, feira de exposição dos projetos tecnológicos dos alunos;
+- Organização e condução de treinamentos práticos de robótica para capacitação de novos professores.
 
 <br>
 
@@ -113,36 +113,36 @@ Principais conquistas e experiências:
 ## `03 / Projetos em destaque`
 
 ### FinFlow Finanças
-Aplicativo mobile de gestão financeira pessoal, criado para tornar o acompanhamento de receitas, despesas e hábitos financeiros mais simples e intuitivo. O projeto é desenvolvido com foco em experiência do usuário, organização de código e possibilidade de evolução contínua.
-- **Tecnologias:** React Native, Expo, TypeScript.
+Aplicativo de gestão financeira pessoal e compartilhada, com app mobile e dashboard web operando sobre a mesma conta e as mesmas regras de negócio. O back-end roda em Supabase (PostgreSQL, Auth e Realtime) com Row Level Security, e o assistente de IA é um agente estruturado que converte linguagem natural em ações validadas no banco, sempre com confirmação do usuário.
+- **Tecnologias:** React Native, Expo Router, TypeScript, Next.js, Supabase, PostgreSQL.
 - **Status:** Em desenvolvimento ativo.
 
 [![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FinFlowA/app-financas)
+
+### FoodNode Analytics
+Sistema de roteamento ótimo para entregas de fast-food: calcula o caminho mínimo em grafos direcionados ponderados usando **Dijkstra + BFS**, com interface gráfica desktop em Tkinter e modo CLI para automação. Arquitetura em camadas (apresentação, aplicação, domínio e infraestrutura) e suíte de 65 testes automatizados.
+- **Tecnologias:** Python, Tkinter, Dijkstra, BFS, Pytest.
+- **Status:** Projeto acadêmico (Teoria dos Grafos).
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/foodnode-analytics)
 
 ### Sistema de Gerenciamento de Tarefas
 Aplicação web voltada para a organização de atividades, desenvolvida durante o curso de Estrutura de Dados. Foco na implementação eficiente de regras de negócio e manipulação de informações no servidor.
 - **Tecnologias:** Python, Flask.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/sistema-gerenciamento-tarefas)
-
-### Gestão de Pedidos (UI Design)
-Projeto focado estritamente na prototipação e experiência do usuário (UX). Construção de toda a interface visual e fluxos de navegação para um sistema de gerenciamento de pedidos comerciais, garantindo usabilidade e acessibilidade.
-- **Tecnologias:** Figma.
-
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
-
-### FoodNode Analytics
-Sistema de roteamento ótimo para entregas de fast-food: calcula o caminho mínimo em grafos direcionados ponderados usando **Dijkstra + BFS**, com interface gráfica desktop em Tkinter e modo CLI para automação. Projeto acadêmico da disciplina de Teoria dos Grafos, com arquitetura em camadas (apresentação, aplicação, domínio e infraestrutura) e suíte de 65 testes automatizados.
-- **Tecnologias:** Python, Tkinter, Dijkstra, BFS, Pytest.
-- **Status:** Projeto acadêmico (Teoria dos Grafos).
-
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/foodnode-analytics)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/sistema-gerenciamento-tarefas)
 
 ### Landing Page — Ferreira & Moreira
 Gestão integral do desenvolvimento e da hospedagem web da landing page oficial da empresa, assegurando estabilidade, segurança e a melhor performance da presença digital.
 - **Tecnologias:** HTML, CSS, JavaScript.
 
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuisHPalacio/ferreira-moreira-site)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/ferreira-moreira-site)
+
+### Gestão de Pedidos (UI Design)
+Projeto focado estritamente na prototipação e experiência do usuário (UX). Construção de toda a interface visual e fluxos de navegação para um sistema de gerenciamento de pedidos comerciais, garantindo usabilidade e acessibilidade.
+- **Tecnologias:** Figma.
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuishPalacio/SISTEMA-DE-GERENCIAMENTO-DE-PEDIDOS)
 
 <br>
 
@@ -158,7 +158,7 @@ Gestão integral do desenvolvimento e da hospedagem web da landing page oficial 
 
 Desenvolvimento de aplicações nativas e multiplataforma com atenção à usabilidade, desempenho e componentização.
 
-`React Native` `Kotlin` `Swift`
+`React Native` `Expo` `Kotlin`
 
 </td>
 <td valign="top" width="33%">
@@ -167,7 +167,7 @@ Desenvolvimento de aplicações nativas e multiplataforma com atenção à usabi
 
 Criação de interfaces responsivas e aplicações web utilizando tecnologias modernas de front-end.
 
-`React` `Angular` `Vue.js`
+`React` `Next.js` `TypeScript`
 
 </td>
 <td valign="top" width="33%">
@@ -176,7 +176,7 @@ Criação de interfaces responsivas e aplicações web utilizando tecnologias mo
 
 Construção de APIs, regras de negócio, integração de serviços e comunicação com bancos de dados.
 
-`Spring Boot` `Node.js` `Python`
+`Node.js` `Python` `Spring Boot`
 
 </td>
 </tr>
@@ -188,7 +188,7 @@ Construção de APIs, regras de negócio, integração de serviços e comunicaç
 
 Modelagem, armazenamento e consulta de dados em bancos relacionais utilizados em aplicações web e mobile.
 
-`MySQL` `PostgreSQL` `SQLite`
+`PostgreSQL` `Supabase` `MySQL`
 
 </td>
 <td valign="top" width="33%">
@@ -197,7 +197,7 @@ Modelagem, armazenamento e consulta de dados em bancos relacionais utilizados em
 
 Instalação e manutenção de servidores/redes, e integração entre hardware e software utilizando microcontroladores.
 
-`Hardware` `Redes` `IoT`
+`Redes` `Hardware` `IoT`
 
 </td>
 <td valign="top" width="33%">
@@ -227,10 +227,10 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
@@ -239,15 +239,15 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ### Back-end e Dados
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -256,6 +256,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -271,26 +272,55 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ---
 
-## `06 / Atividade no GitHub`
+## `06 / Certificações e idiomas`
+
+<table width="100%">
+<tr>
+<td valign="top" width="60%">
+
+### Certificações
+
+- **Android** — FIAP · Nano Course, 80 horas
+- **Minicurso React Native**
+- **Networking Basics**
+- **Engenharia de Software**
+
+</td>
+<td valign="top" width="40%">
+
+### Idiomas
+
+- **Português** — Nativo
+- **Inglês** — Profissional
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `07 / Atividade no GitHub`
 
 <div align="center">
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=LuisHPalacio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=LuishPalacio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"
   alt="Estatísticas do GitHub"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHPalacio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuishPalacio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"
   alt="Linguagens mais utilizadas"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LuisHPalacio&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=0a3d62"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LuishPalacio&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=0a3d62"
   width="100%"
   alt="Gráfico de atividades no GitHub"
 />
@@ -301,7 +331,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ---
 
-## `07 / Contato`
+## `08 / Contato`
 
 <div align="center">
 
@@ -309,7 +339,7 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 <br><br>
 
-Tenho interesse em oportunidades, colaborações e projetos relacionados a **desenvolvimento de software**, **aplicações mobile**, **desenvolvimento web** e **tecnologia**.
+Tenho interesse em oportunidades, colaborações e projetos relacionados a **desenvolvimento Full Stack**, **aplicações mobile**, **desenvolvimento web** e **tecnologia**.
 
 <br>
 

@@ -65,11 +65,11 @@
 
 Sou estudante de **Ciência da Computação** no Centro Universitário Braz Cubas, com conclusão prevista para **dezembro de 2027**, e atualmente atuo como **Assistente de TI Pleno** na ODEEN. Essa vivência com infraestrutura, suporte técnico e redes me dá uma base sólida de como a tecnologia opera na prática, mas meu foco de carreira é o **desenvolvimento de software**.
 
-Tenho direcionado meus estudos e projetos para a criação de soluções modernas e escaláveis, com eixo principal em **React, React Native e TypeScript**. O FinFlow — meu aplicativo de finanças pessoais com assistente de IA integrado — é o melhor exemplo dessa base técnica. Além do eixo principal, trabalho com Python (Flask, Django), Node.js e Kotlin nativo, e mantenho contato ativo com eletrônica e IoT (Arduino, ESP32, Raspberry Pi Pico), o que reforça minha visão de integração entre hardware e software.
+Tenho direcionado meus estudos e projetos para a criação de soluções modernas e escaláveis, com eixo principal em **React, React Native e TypeScript**. O FinFlow — meu aplicativo de finanças pessoais com assistente de IA integrado, é o melhor exemplo dessa base técnica. Além do eixo principal, trabalho com Python (Flask, Django), Node.js e Kotlin nativo, e mantenho contato ativo com eletrônica e IoT (Arduino, ESP32, Raspberry Pi Pico), o que reforça minha visão de integração entre hardware e software.
 
 Minha experiência como professor de Informática na DiscoverON foi fundamental para desenvolver comunicação, trabalho em equipe e didática — habilidades que aplico diretamente na resolução de problemas em equipe.
 
-> Busco oportunidades onde eu possa crescer como desenvolvedor, com interesse crescente em cibersegurança e inteligência artificial.
+> Busco oportunidades onde eu possa crescer como desenvolvedor, com interesse crescente em desenvolvimento, cibersegurança e inteligência artificial.
 
 <br>
 
@@ -290,7 +290,6 @@ Ensino de tecnologia, produção de explicações acessíveis e orientação de 
 
 ### Idiomas
 
-- **Português** — Nativo
 - **Inglês** — Profissional
 
 </td>

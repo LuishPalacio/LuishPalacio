@@ -73,9 +73,10 @@ Lógica de programação, desenvolvimento web e robótica em C++ para ensino fun
 
 ## Certificações
 
-Android (FIAP, 80h) · Minicurso React Native · Networking Basics · Engenharia de Software
+Android (FIAP, 80h) · Minicurso React Native · Networking Basics · Engenharia de Software(FIAP, 100h) · Big Data & Analytics (FIAP, 60h)
 
-**Idiomas:** Português (nativo) · Inglês (profissional)
+
+**Idiomas:** Português (nativo) · Inglês (intermediário)
 
 ---
 
